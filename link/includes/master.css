@@ -1,0 +1,142 @@
+body {
+    /* font-family: 'Roboto'; */
+
+}
+.df
+{
+color: aliceblue
+background:aliceblue;
+}
+.tl
+{
+  font-size: 3em;
+
+}
+.pp
+{
+  float: right;
+  margin-right: 10px;
+}
+.ul #input
+{
+  width: 300px;
+}
+.t2
+{
+margin-top: 5px;
+height: 450px;
+}
+.home
+{
+margin-top: 50px;
+}
+.lb1
+{
+  width:500px;
+}
+#sign.input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
+#sign .modal-dialog
+{
+width: 500px;
+align-items: center;
+align-content: center;
+align-self: center;
+color:red;
+}
+.modal fade
+{
+  border-width: 10px;
+  border-color: red;
+  border-radius: 8px;
+}
+#sign .form-cantrol
+{
+  margin-right: 20px;
+  margin-left: 5px;
+}
+#sign .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+#sign .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+.pm
+{
+  margin-left: 10px;
+  align-items: center;
+  align-self: center;
+}
+.t5
+{
+  background-color:#b8b894;
+}
+
+#sign.input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
+#sign .modal-dialog
+{
+width: 500px;
+align-items: center;
+align-content: center;
+align-self: center;
+color:red;
+}
+.modal fade
+{
+  border-width: 10px;
+  border-color: red;
+  border-radius: 8px;
+}
+#allow .form-cantrol
+{
+  margin-right: 20px;
+  margin-left: 5px;
+}
+#allow .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+#allow .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+#allow.input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}

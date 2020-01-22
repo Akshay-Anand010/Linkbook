@@ -1,0 +1,36 @@
+body {
+    /* font-family: 'Roboto'; */
+
+}
+.df
+{
+color: aliceblue
+background:aliceblue;
+}
+.tl
+{
+  font-size: 3em;
+
+}
+.pp
+{
+  float: right;
+  margin-right: 10px;
+}
+.ul #input
+{
+  width: 300px;
+}
+.t2
+{
+margin-top: 5px;
+height: 550px;
+}
+.home
+{
+margin-top: 50px;
+}
+.tb
+{
+  width:120px;
+}

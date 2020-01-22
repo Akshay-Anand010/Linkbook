@@ -1,0 +1,291 @@
+body {
+    /* font-family: 'Roboto'; */
+
+}
+.df
+{
+color: aliceblue
+background:aliceblue;
+}
+.tl
+{
+  font-size: 3em;
+
+}
+.pp
+{
+  float: right;
+  margin-right: 10px;
+}
+.ul #input
+{
+  width: 300px;
+}
+.t2
+{
+margin-top: 5px;
+height: 450px;
+}
+.home
+{
+margin-top: 100px;
+}
+.lb1
+{
+  width:500px;
+}
+#sign.input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
+#sign .modal-dialog
+{
+width: 500px;
+align-items: center;
+align-content: center;
+align-self: center;
+color:red;
+}
+.modal fade
+{
+  border-width: 10px;
+  border-color: red;
+  border-radius: 8px;
+}
+#sign .form-cantrol
+{
+  margin-right: 20px;
+  margin-left: 5px;
+}
+#sign .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+#sign .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+.pm
+{
+  margin-left: 10px;
+  align-items: center;
+  align-self: center;
+}
+.t5
+{
+  background-color:#b8b894;
+}
+
+#sign.input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
+#sign .modal-dialog
+{
+width: 500px;
+align-items: center;
+align-content: center;
+align-self: center;
+color:red;
+}
+.modal fade
+{
+  border-width: 10px;
+  border-color: red;
+  border-radius: 8px;
+}
+#allow .form-cantrol
+{
+  margin-right: 20px;
+  margin-left: 5px;
+}
+#allow .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+#allow .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+#allow.input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  align-items: center;
+  align-content: center;
+  align-self: center;
+}
+.df
+{
+color: aliceblue
+}
+
+
+.btn-lg.round {
+	border-radius: 24px;
+}
+.pricing
+{
+background-color: #0099ff;
+
+}
+.ll
+{
+color: #fff;
+align-content: center;
+align-self: center;
+text-align: center;
+}
+.rowheight
+{
+    background-color: #fff;
+}
+.tr
+{
+align-content: center;
+align-self:center;
+box-align: center;
+
+}
+.cl1
+{
+    align-self: center;
+    align-content: center;
+    text-align: center;
+}
+.cd
+{
+background-color: #0099ff;
+color: #fff;
+align-self: center;
+text-align: center;
+}
+.df
+{
+font-size: 2em;
+}
+.tp
+{
+    background-color:whitesmoke;
+}
+.l
+{
+  margin-top: 80px;
+}
+.p
+{
+  color: #fff;
+}
+.tb
+{
+  color: red;
+  text-align: center;
+  font-size: 2em;
+}
+.pl
+{
+  align-content: center;
+  background-color: :#ffffb3;
+  margin-right: 20px;
+}
+#input
+{
+margin-right: 20px;
+}
+#login-modal.input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+#sign-in.input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+#login-modal .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+#sign-in .modal-header
+{
+  background-color: #00e600;
+  font-size: 50px;
+  color:#fff;
+}
+#login-modal .modal-dialog
+{
+width: 500px;
+align-items: center;
+align-content: center;
+align-self: center;
+color:red;
+
+}
+#sign-in .modal-dialog
+{
+width: 500px;
+align-items: center;
+align-content: center;
+align-self: center;
+color:red;
+
+}
+.bt
+{
+margin-left: 20px;
+}
+.modal fade
+{
+  border-width: 10px;
+  border-color: red;
+  border-radius: 8px;
+}
+#login-modal .form-cantrol
+{
+  margin-right: 20px;
+  margin-left: 5px;
+}
+#sign-in .form-cantrol
+{
+  margin-right: 20px;
+  margin-left: 5px;
+}
+.pm
+{
+  margin-left: 10px;
+  align-items: center;
+  align-self: center;
+}
